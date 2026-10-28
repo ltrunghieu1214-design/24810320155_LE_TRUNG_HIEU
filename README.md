@@ -53,5 +53,9 @@
 
 ## IV. HƯỚNG DẪN CÀI ĐẶT & CHẠY DỰ ÁN
 1. Clone Repository về máy: https://github.com/ltrunghieu1214-design/24810320155_LE_TRUNG_HIEU.git
-2. Mở file solution src/WinFormsAppSolution.sln bằng Visual Studio 2026.
+2. Mở dự án bằng Visual Studio: Mở file solution tương ứng với bài cần chạy:
+
+  * Bài 5.1: src/Bai_5.1/WinFormsApp1.slnx
+
+  * Bài 5.2: src/bai_5.2/bai4.2/bai4.2.slnx
 3. Bấm F5 hoặc chọn Start để biên dịch và chạy chương trình.
