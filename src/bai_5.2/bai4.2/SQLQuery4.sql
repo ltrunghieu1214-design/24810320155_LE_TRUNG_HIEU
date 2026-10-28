@@ -1,0 +1,22 @@
+CREATE DATABASE Bai_4_2_HocVien;
+GO
+
+USE Bai_4_2_HocVien;
+GO
+
+CREATE TABLE HocVien
+(
+    MaHocVien INT IDENTITY(1,1) PRIMARY KEY,
+    HoTen NVARCHAR(100) NOT NULL,
+    SoDienThoai VARCHAR(20),
+    NgaySinh DATE,
+    GioiTinh NVARCHAR(10),
+    KhoaHoc NVARCHAR(100),
+    MonHoc NVARCHAR(200)
+);
+GO
+TRUNCATE TABLE HocVien;
+DBCC CHECKIDENT ('HocVien', RESEED, 1);
+GO
+SELECT * FROM HocVien;
+DELETE FROM HocVien;
