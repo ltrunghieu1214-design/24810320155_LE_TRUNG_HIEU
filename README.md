@@ -6,7 +6,7 @@
 * **Mã số sinh viên:** 24810320155
 * **Lớp học phần:** Lập trình .NET 
 
-* **Link Repository:** 
+* **Link Repository:** https://github.com/ltrunghieu1214-design/24810320155_LE_TRUNG_HIEU.git
 
 ---
 
@@ -52,7 +52,6 @@
 
 
 ## IV. HƯỚNG DẪN CÀI ĐẶT & CHẠY DỰ ÁN
-1. Clone Repository về máy:
-
+1. Clone Repository về máy: https://github.com/ltrunghieu1214-design/24810320155_LE_TRUNG_HIEU.git
 2. Mở file solution src/WinFormsAppSolution.sln bằng Visual Studio 2026.
 3. Bấm F5 hoặc chọn Start để biên dịch và chạy chương trình.
